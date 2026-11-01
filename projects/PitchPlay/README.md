@@ -1,7 +1,7 @@
 # ⚽ PitchPlay
 ### React 기반 축구 팀 매칭 웹 플랫폼
 
-[← 포트폴리오 메인으로](../README.md) · [원본 팀 프로젝트 저장소](https://github.com/poqazpoqaz/pitchplay)
+[← 포트폴리오 메인으로](../../README.md) · [원본 팀 프로젝트 저장소](https://github.com/poqazpoqaz/pitchplay)
 
 ## 프로젝트 소개
 
@@ -16,19 +16,19 @@
 
 반응형 레이아웃과 동적인 화면 요소를 구현했습니다. PC와 작은 화면에서의 레이아웃 구성을 고려했습니다.
 
-![메인 화면 시연](../assets/pitchplay/main.gif)
+![메인 화면 시연](./assets/main.gif)
 
 ### 02. 마이페이지
 
 사용자 정보, 활동 내역, 커뮤니티 및 설정 등 개인 영역을 화면별로 구성했습니다.
 
-![마이페이지 시연](../assets/pitchplay/mypage.gif)
+![마이페이지 시연](./assets/mypage.gif)
 
 ### 03. 팀 매칭
 
 팀 매칭 목록을 보여주고, 조건에 따른 필터링·정렬 및 목록 표시 기능을 구성했습니다.
 
-![팀 매칭 시연](../assets/pitchplay/matching.gif)
+![팀 매칭 시연](./assets/matching.gif)
 
 ### 04. 팀 컬렉션
 

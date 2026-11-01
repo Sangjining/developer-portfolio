@@ -16,9 +16,9 @@ React 기반 웹 UI 구현부터 Spring Boot API 및 데이터베이스 연동�
 
 반응형 메인 화면, 마이페이지, 팀 매칭, 팀 컬렉션, 공통 헤더·푸터를 담당했습니다.
 
-![PitchPlay 메인 화면 시연](assets/pitchplay/main.gif)
+![PitchPlay 메인 화면 시연](projects/PitchPlay/assets/main.gif)
 
-**[프로젝트 상세 보기](projects/pitchplay.md)** · **[원본 팀 프로젝트 소스코드](https://github.com/poqazpoqaz/pitchplay)**
+**[프로젝트 상세 보기](projects/PitchPlay/README.md)** · **[원본 팀 프로젝트 소스코드](https://github.com/poqazpoqaz/pitchplay)**
 
 ### 🚀 Team-Mate | 웹 기반 협업 관리 플랫폼
 **캡스톤 프로젝트 · 개발 진행 중**
